@@ -1,0 +1,20 @@
+{
+    "Author": "Safeer Mohammed",
+    "ContentSize": 3164,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/install-oms-extension-for-linux-and-windows-azure-vm/master/Install-OMSVMExtension.ps1",
+    "DownloadCount": 974,
+    "Id": "Install-OMS-extension-for-b50be2b5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 109,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Installs OMS extension for Linux and Windows Azure Virtual Machines.The Runbook takes Subscription Id VM name and installs OMS Agent on the VMThe runbook needs run as connection string to access VM in other subscriptions.The Runbook also takes WorkspaceId and WorkspaceKey a",
+    "Title": "Install OMS extension for Linux and Windows Azure VM",
+    "UpdatedDate": "2017-6-23T00:00:00",
+    "Url": "https://github.com/azureautomation/install-oms-extension-for-linux-and-windows-azure-vm",
+    "UserTags": "Azure Automation, OMS Update Management"
+}
